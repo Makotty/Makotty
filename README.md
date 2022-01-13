@@ -7,12 +7,12 @@
 
 <h2>2021/12/26,27 株式会社サポーターズ主催「技育CAMP vol12」努力賞受賞🏅</h2>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_front&show_owner=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_api&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_front&show_owner=true)](https://github.com/Makotty/E-Code_front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_api&show_owner=true)](https://github.com/Makotty/E-Code_api)
 
 <h2>2021/11/21 U-22プログラム・コンテスト 経済産業大臣賞受賞🏆</h2>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkakeru&repo=U-22&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkakeru&repo=U-22&show_owner=true)](https://github.com/mkakeru/U-22)
 
 
 <hr>
