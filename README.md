@@ -14,6 +14,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkakeru&repo=U-22&show_owner=true)](https://github.com/mkakeru/U-22)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makotty&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makotty&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makotty&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makotty&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Makotty&theme=default)
 
 <hr>
 
