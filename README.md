@@ -1,3 +1,21 @@
+<hr>
+
+![Mako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7)
+
+<h2>2021/12/26,27 株式会社サポーターズ主催「技育CAMP vol12」努力賞受賞🏅</h2>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_front&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=E-Code_api&show_owner=true)
+
+<h2>2021/11/21 U-22プログラム・コンテスト 経済産業大臣賞受賞🏆</h2>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mkakeru&repo=U-22&show_owner=true)
+
+
+<hr>
+
 <p align="left"> 
   <a href="https://github.com/Makotty/Makotty/">
     <img src="https://komarev.com/ghpvc/?username=Makotty" alt="Makotty" />
@@ -9,5 +27,3 @@
     <img height="20" src="https://img.shields.io/github/followers/Makotty?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)](https://github.com/Makotty/github-readme-stats)
