@@ -2,7 +2,6 @@
 <hr>
 
 ![Mako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7)
 
 
