@@ -17,9 +17,9 @@
 <!-- <h2>制作物</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakoHato&repo=MakotoHato&show_owner=true)](https://github.com/MakoHato/MakotoHato)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeautySalonSUGINO&repo=ver1&show_owner=true)](https://github.com/BeautySalonSUGINO/ver1) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeautySalonSUGINO&repo=ver1&show_owner=true)](https://github.com/BeautySalonSUGINO/ver1) 
 
-<hr>
+<hr> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makotty&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makotty&theme=default)
