@@ -14,10 +14,10 @@
 
 <hr>
 
-<h2>制作物</h2>
+<!-- <h2>制作物</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MakoHato&repo=MakotoHato&show_owner=true)](https://github.com/MakoHato/MakotoHato)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeautySalonSUGINO&repo=ver1&show_owner=true)](https://github.com/BeautySalonSUGINO/ver1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BeautySalonSUGINO&repo=ver1&show_owner=true)](https://github.com/BeautySalonSUGINO/ver1) -->
 
 <hr>
 
