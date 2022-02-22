@@ -2,7 +2,7 @@
 <hr>
 
 ![Mako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7&count_private=true)
 
 
 <hr>
@@ -22,8 +22,8 @@
 <hr> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Makotty&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makotty&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makotty&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Makotty&theme=default&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Makotty&theme=default&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Makotty&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Makotty&theme=default)
 
