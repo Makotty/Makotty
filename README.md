@@ -33,8 +33,8 @@
   <a href="https://github.com/Makotty/Makotty/">
     <img src="https://komarev.com/ghpvc/?username=Makotty" alt="Makotty" />
   </a>
-  <a href="http://twitter.com/mak0tsx">
-    <img height="20" src="https://img.shields.io/twitter/follow/mak0tsx?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/hat0tsx">
+    <img height="20" src="https://img.shields.io/twitter/follow/hat0tsx?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Makotty">
     <img height="20" src="https://img.shields.io/github/followers/Makotty?label=follow&logo=github&style=flat" />
