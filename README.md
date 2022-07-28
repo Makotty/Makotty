@@ -4,8 +4,22 @@
 ![Mako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=vite-react-ts-template)](https://github.com/Makotty/vite-react-ts-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=vite-threejs-react-typescript-template)](https://github.com/Makotty/vite-threejs-react-typescript-template)
 
 <hr>
+
+<p align="left"> 
+  <a href="https://github.com/Makotty/Makotty/">
+    <img src="https://komarev.com/ghpvc/?username=Makotty" alt="Makotty" />
+  </a>
+  <a href="http://twitter.com/makotty_dev">
+    <img height="20" src="https://img.shields.io/twitter/follow/makotty_dev?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/Makotty">
+    <img height="20" src="https://img.shields.io/github/followers/Makotty?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 <!-- 
 
@@ -26,15 +40,3 @@
 <hr>
 
 -->
-
-<p align="left"> 
-  <a href="https://github.com/Makotty/Makotty/">
-    <img src="https://komarev.com/ghpvc/?username=Makotty" alt="Makotty" />
-  </a>
-  <a href="http://twitter.com/makotty_dev">
-    <img height="20" src="https://img.shields.io/twitter/follow/makotty_dev?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/Makotty">
-    <img height="20" src="https://img.shields.io/github/followers/Makotty?label=follow&logo=github&style=flat" />
-  </a>
-</p>
