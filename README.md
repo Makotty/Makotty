@@ -4,8 +4,12 @@
 ![Mako's GitHub stats](https://github-readme-stats.vercel.app/api?username=Makotty&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makotty&layout=compact&langs_count=7&count_private=true)
 
+<!-- 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=vite-react-ts-template)](https://github.com/Makotty/vite-react-ts-template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Makotty&repo=vite-threejs-react-ts-template)](https://github.com/Makotty/vite-threejs-react-ts-template)
+
+-->
 
 <hr>
 
